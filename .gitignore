@@ -39,3 +39,4 @@ xdg-desktop-portal-dbus.[ch]
 /xdg-desktop-portal-*.tar.xz
 /xdg-desktop-portal-*/
 /xdg-desktop-portal-gtk.desktop
+.cache/
